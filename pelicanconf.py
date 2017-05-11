@@ -24,9 +24,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 
-GITHUB_URL = 'http://github.com/ansible'
-TWITTER_URL = 'http://twitter.com/ansible'
-FACEBOOK_URL = 'http://facebook.com/ansibleautomation'
+GITHUB_URL = 'https://github.com/ansible'
+TWITTER_URL = 'https://twitter.com/ansible'
+FACEBOOK_URL = 'https://facebook.com/ansibleautomation'
 
 # Blogroll
 LINKS = (('Ansible', 'https://ansible.com/'),
