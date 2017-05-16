@@ -24,7 +24,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 
-GITHUB_URL = 'https://github.com/arghsible'
+GITHUB_URL = 'https://github.com/ansible'
 TWITTER_URL = 'https://twitter.com/ansible'
 FACEBOOK_URL = 'https://facebook.com/ansibleautomation'
 
