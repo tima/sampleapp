@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = u'Bill Nottingham <notting@redhat.com>'
+AUTHOR = u'Timothy Appnel <tappnel@redhat.com>'
 SITENAME = u'Application Demo'
 SITEURL = ''
 
